@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Task1 {
     public static void main(String[] args) {
-
+//check
         Scanner scanner = new Scanner(System.in);
         int orders = Integer.parseInt(scanner.nextLine());
         double pricePerCapsule = 0.0;
